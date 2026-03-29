@@ -1,0 +1,15 @@
+# --- Kubernetes & Secrets ---
+mongo-secret.yaml
+*.secret.yaml
+.env
+.env.*
+
+# --- OS & IDE Files ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# --- Temp & Logs ---
+*.log
+tmp/
