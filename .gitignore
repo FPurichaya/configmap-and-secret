@@ -1,6 +1,6 @@
 # --- Kubernetes & Secrets ---
 mongo-secret.yaml
-*.secret-file.yaml
+*secret-file.yaml
 .env
 .env.*
 
